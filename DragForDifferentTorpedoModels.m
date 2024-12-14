@@ -1,6 +1,6 @@
 % This script plots the Drag Vs Time for different cases of an underwater
 % Torpedo 
-%Normal Case : the Torpedo moves in water without activating energy i.e no
+%Normal Case : the Torpedo moves in water without activating energy i.e
 %effects of heat on drag is not taking into consideration
 %Vapor Case : The heat transfer from torpedo surface to water is included
 %Ventilated Cavitation : air comes out of an openniing from the torpedo
